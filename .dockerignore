@@ -1,0 +1,26 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Diretórios de dependências
+node_modules
+dist
+.npm
+
+# Arquivos de ambiente
+.env
+.env*.local
+
+# Metadados do Docker e Git
+Dockerfile
+.dockerignore
+.git
+.gitignore
+
+# Configurações de IDE
+.idea
+.vscode
