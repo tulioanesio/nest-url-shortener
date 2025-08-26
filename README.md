@@ -54,7 +54,7 @@ docker run \
 
 ## How Use
 
-The application will be available at `http://localhost:3000`
+You can run the application with `pnpm run start:dev`. The app will be available at `http://localhost:3000`
 
 ### API Endpoints
 
